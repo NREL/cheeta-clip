@@ -8,7 +8,10 @@ The Cheeta clip holds flat objects onto a rack. It is made for deploying small s
 - Uses about USD 0.10 worth of material per clip
 
 ## Usage
-Set the springs inside of each clip. <video src="assets/step1.mov"></video>
+Set the springs inside of each clip.
+
+https://user-images.githubusercontent.com/416769/164803713-2e9b144f-7e71-470b-b48f-9a773c60ec67.mov
+
 
 Position rails according to the *rail slot spacing* in the version table below.
 
