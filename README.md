@@ -1,6 +1,8 @@
 # Cheeta clip
 The Cheeta clip holds flat objects onto a rack. It is made for deploying small solar photovoltaic (PV) modules outdoors.
 
+![Cheeta clips in use](https://user-images.githubusercontent.com/416769/164807438-2adcf12a-fd20-4e22-bafa-5c34afe2cc95.png)
+
 ## Features
 - Very fast, tool-less attachment to a rack
 - Very fast, tool-less installation and removal of samples
@@ -11,6 +13,7 @@ The Cheeta clip holds flat objects onto a rack. It is made for deploying small s
 Position rails according to the *rail slot spacing* in the version table below.
 
 Set the springs inside of each clip.
+
 https://user-images.githubusercontent.com/416769/164803713-2e9b144f-7e71-470b-b48f-9a773c60ec67.mov
 
 Install at least two upper clips in the upper rail using a quarter-twist.
@@ -40,3 +43,6 @@ We make Cheeta clips using ordinary FFF 3D printers. We use a 0.6-mm nozzle. We 
 We use white PETG, which should last at least several months outdoors while holding adequate spring tension.
 
 PLA is not recommended because it creeps at room temperature and loses spring tension overnight.
+
+## Contact
+If you have tried this clip, or if you have a comment or suggestion, please contact the author, Tim Silverman <timothy.silverman@nrel.gov>.
